@@ -36,7 +36,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/Adriel/Adriel/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
