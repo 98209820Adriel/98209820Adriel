@@ -1,47 +1,51 @@
-<p align="left">Hi, I'm Adriiel!</p>
+<h1 align="left">Olá👋, Eu Sou Adriel!</h1>
+
+###
+
+<p align="left">👨‍💻 Desenvolvedor Front End</p>
+
+###
+
+<h2 align="left">Quem sou eu?</h2>
+
+###
+
+<p align="left">Sou um amante da tecnologia.🧑‍💻<br>Amo um café. ☕️<br>Não sei consertar uma impressora.😅<br>E  um bom desenvolvedor de sites e sistemas. 👨‍💻</p>
+
+###
+
+<h2 align="left">Tech Skills</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" width="37" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" width="37" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" width="37" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" width="37" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" width="37" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="25" width="37" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25" width="37" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="25" width="37" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" width="37" alt="mysql logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/adriel-hahn-ab7196211" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  <a href="https://api.whatsapp.com/send?phone=5551986358851" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=pt-br&hide_border=true&username=Adriel" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=true&username=Adriel" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQEAS17EhU2ZkgAAAYGTQrdAnrzuINM9oJbZef9x09ab1U9WpUNWgoGaQhkzbT2qCZJlR80j-LSv8oUvcKj5T6jmfwStjkilyUcKWGmg94AdWwGrnyS76bflGMPTfZDxeEurphk=&original_referer=https://98209820adriel.github.io/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fadriel-hahn-ab7196211" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQEAS17EhU2ZkgAAAYGTQrdAnrzuINM9oJbZef9x09ab1U9WpUNWgoGaQhkzbT2qCZJlR80j-LSv8oUvcKj5T6jmfwStjkilyUcKWGmg94AdWwGrnyS76bflGMPTfZDxeEurphk=&original_referer=https://98209820adriel.github.io/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fadriel-hahn-ab7196211" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
-
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Adriel/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/98209820Adriel/count.svg?"  />
 </div>
 
 ###
