@@ -29,11 +29,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="25" width="37" alt="sass logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" width="37" alt="mysql logo"  />
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png?20170919082558" height="25" width="37" alt="mysql logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" height="25" width="37" alt="mysql logo"  />
-    <img src="https://miro.medium.com/max/640/0*I4KFArErBehs6aaU.webp" height="25" width="37" alt="sass logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/260px-PHP-logo.svg.png" height="25" width="37" alt="mysql logo"  />
-  <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" height="25" width="37" alt="mysql logo"  />
-  <img src="https://www.joykal.com/wp-content/uploads/2019/09/codeigniter-icon-512.png" height="25" width="37" alt="mysql logo"  />
+  <img style="    max-width: 100%;
+    height: 35px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" height="25" width="37" alt="mysql logo"  />
+    <img style="    max-width: 100%;
+    height: 35px;" src="https://miro.medium.com/max/640/0*I4KFArErBehs6aaU.webp" height="25" width="37" alt="sass logo"  />
+  <img style="    max-width: 100%;
+    height: 35px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/260px-PHP-logo.svg.png" height="25" width="37" alt="mysql logo"  />
+  <img style="    max-width: 100%;
+    height: 35px;" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" height="25" width="37" alt="mysql logo"  />
+  <img style="    max-width: 100%;
+    height: 35px;" src="https://www.joykal.com/wp-content/uploads/2019/09/codeigniter-icon-512.png" height="25" width="37" alt="mysql logo"  />
 </div>
 
 ###
