@@ -11,9 +11,6 @@
 ###
 
 <p align="left">Sou um amante da tecnologia.🧑‍💻<br>Amo jogos. 👾 <br>Não sei consertar uma impressora.😅<br>E  um bom desenvolvedor de sites e sistemas. 👨‍💻</p>
-  <a href="https://adrielportifolio.site/" target="_blank">
-      Meu portifolio
-  </a>
 
 ###
 
